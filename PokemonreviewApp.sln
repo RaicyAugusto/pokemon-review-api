@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PokemonreviewApp", "PokemonreviewApp\PokemonreviewApp.csproj", "{E355AF17-4CFE-465F-BB21-508C764074FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokemonReviewApp.Test", "PokemonReviewApp.Test\PokemonReviewApp.Test.csproj", "{227EE1C2-61B1-4E79-BF15-A2CDBD507DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E355AF17-4CFE-465F-BB21-508C764074FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E355AF17-4CFE-465F-BB21-508C764074FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E355AF17-4CFE-465F-BB21-508C764074FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E355AF17-4CFE-465F-BB21-508C764074FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227EE1C2-61B1-4E79-BF15-A2CDBD507DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227EE1C2-61B1-4E79-BF15-A2CDBD507DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227EE1C2-61B1-4E79-BF15-A2CDBD507DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227EE1C2-61B1-4E79-BF15-A2CDBD507DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC061851-C106-4F26-BB64-3C7262C37735}
+	EndGlobalSection
+EndGlobal
